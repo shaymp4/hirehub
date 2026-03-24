@@ -1,4 +1,4 @@
 <x-layout>
-    <h1>Home</h1>
+    <x-slot:heading>Home</x-slot:heading>
     <p>This is the home page of our application.</p>
 </x-layout>
